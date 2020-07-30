@@ -1,0 +1,32 @@
+.textual {
+    border: 1px solid gray;
+    padding: 5px;
+    }
+#funfact {
+    font-style: italic;
+    border: 1px solid gray;
+    }
+#bio {
+    border: 1px solid gray;
+     }
+span {
+    font-weight: bold;
+    }
+h3 {
+    border: 1px solid gray;
+   }
+body {
+    border: 1px solid gray;
+    box-shadow: 5px 10px #aaaaaa;
+    padding: 5px;
+    width: 300px;
+    }
+ul {
+    list-style: none;
+    padding: 0px;
+    border: 1px solid gray;
+    }
+
+img {
+    margin-bottom: 5px;
+    }
